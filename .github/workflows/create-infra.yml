@@ -50,7 +50,7 @@ on:
       key_name:
         description: "Name of an EC2 key pair you already created in AWS — its private key must be in the EC2_SSH_KEY repo secret"
         required: true
-        default: "shoplist2"
+        default: "shoplist-key"
       image_tag:
         description: "Image tag to deploy on apply+confirm (default: current commit's short SHA — make sure ci-cd.yml already built+pushed it, and the ghcr.io packages are public)"
         required: false
