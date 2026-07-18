@@ -1,4 +1,4 @@
-name: Create/Destroy Lab Infra
+name: name: Create/Destroy Lab Infra Test
 
 # Runs the Lecture 4 "provision the lab instance" step entirely on GitHub-hosted
 # runners — no local Terraform/Ansible/AWS CLI install needed. Built for the
