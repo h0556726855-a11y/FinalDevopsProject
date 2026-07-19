@@ -59,7 +59,8 @@ https://github.com/h0556726855-a11y/FinalDevopsProject/actions/runs/29691966137/
 
 # Application Screenshot
 
-![ShopList Application](image-1.png)
+<img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/e2181adb-fac9-4c60-b3de-ff518e69b527" />
+
 
 ---
 
@@ -67,11 +68,13 @@ https://github.com/h0556726855-a11y/FinalDevopsProject/actions/runs/29691966137/
 
 ## Build, Push and Deploy
 
-![Build Pipeline](image-2.png)
+<img width="1377" height="288" alt="image" src="https://github.com/user-attachments/assets/c3739ed0-bcf0-4fa5-8844-d4a51b1c9cd3" />
+
 
 ## Create / Destroy Lab Infrastructure (Apply & Confirm)
 
-![Infrastructure Pipeline](image-3.png)
+<img width="1467" height="462" alt="image" src="https://github.com/user-attachments/assets/8fd84352-00db-4021-9dd8-7a50e3b6a040" />
+
 
 ---
 
